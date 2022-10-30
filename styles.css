@@ -283,9 +283,9 @@ button a:hover {
   html {
     font-size: 50%;
   }
-  header {
+/*   header {
     height: 90vh;
-  }
+  } */
   #welcome-section {
     top: 60%;
     transform: translateY(60%);
