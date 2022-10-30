@@ -375,6 +375,9 @@ button a:hover {
 }
 
 @media only screen and (max-width: 400px) {
+ header {
+    height: 80vh;
+  }
   h1 {
     font-size: 2.5rem;
   }
